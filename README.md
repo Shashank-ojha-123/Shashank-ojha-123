@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank
 - 👀 I’m interested in ... Frontend Development and Artificial Intelligence
-- 🌱 I’m currently learning ... Design pricipals
+- 🌱 I’m currently learning ... Design principle
 - 😄 Pronouns: ... He
 
 <!---
